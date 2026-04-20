@@ -2,6 +2,7 @@
 
 To flash EsP32 S2 board Wled, fast way is use Adafruid web pages for flashing ESP.
 S2 board need to hold BOOT buttom before connecting cable, same after flashing, unplug/plug cable. ESP32 wroom could be flashed from WLED official flash page. 
+
 For ESP32 wroom:
 https://install.wled.me/
 
